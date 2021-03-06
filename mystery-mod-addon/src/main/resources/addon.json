@@ -1,0 +1,7 @@
+{
+  "name" : "KeyStrokes",
+  "version" : "1.0.0",
+  "description" : "Dieses Addon fügt KeyStrokes zu MysteryMod hinzu!",
+  "authors"  : ["MrMystery"],
+  "mainClass" : "net.mysterymod.addon.MysteryModAddon"
+}
